@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER":"put your mongo user here",
+        "MONGO_PASSWORD":"mongo password",
+        "MONGO_DEFAULT_DATABASE":"name of database",
+        "SENDGRID_KEY":"key"
+    }
+}
